@@ -7,9 +7,10 @@ Start with the repo-level [Offline Study Guide](../OFFLINE_STUDY_GUIDE.md). Use 
 Primary path:
 
 1. `production-rag`
-2. `generative-ai-for-beginners`
-3. `mcp-for-beginners`
-4. `ai-engineering-from-scratch`
+2. `rag-tutorial`
+3. `generative-ai-for-beginners`
+4. `mcp-for-beginners`
+5. `ai-engineering-from-scratch`
 
 Reference-only foundations:
 

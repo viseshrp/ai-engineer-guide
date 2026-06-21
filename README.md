@@ -86,3 +86,4 @@ The first implementation should favor the smallest model that reliably emits val
 - [OFFLINE_STUDY_GUIDE.md](./OFFLINE_STUDY_GUIDE.md) is the default end-to-end, local-only study path.
 - [external-curriculum/](./external-curriculum/) contains curated offline slices of external courses, with source metadata in [external-curriculum/SOURCES.md](./external-curriculum/SOURCES.md).
 - [docs/CURRICULUM_MAINTENANCE.md](./docs/CURRICULUM_MAINTENANCE.md) explains how to refresh the curated curriculum without reintroducing provider-specific material.
+- [docs/RAG_TUTORIAL_PRODUCTIZATION.md](./docs/RAG_TUTORIAL_PRODUCTIZATION.md) explains how the PyCon RAG tutorial fits as the practical bridge from notebook exercise to product feature.

@@ -95,14 +95,19 @@ Purpose: learn retrieval before adding generation.
 
 Read:
 
+- `external-curriculum/rag-tutorial/README.md`
+- `external-curriculum/rag-tutorial/CHEATSHEET.md`
+- `external-curriculum/rag-tutorial/vendor/rag_tutorial/python_tutorial.py`
 - `external-curriculum/production-rag/static`
 - `external-curriculum/ai-engineering-from-scratch/phases/05-nlp-foundations-to-advanced`
 
 Build:
 
-- A local index over report-item metadata.
+- Run the PyCon tutorial mentally or locally against already-downloaded assets.
+- Replace the sample document corpus with product-style report-item fixtures.
+- Build a local index over report-item metadata.
 - Keyword search first.
-- Optional local embedding search second.
+- Local embedding search second.
 - Hybrid ranking only after keyword search works.
 
 Offline substitutions:
@@ -113,6 +118,7 @@ Offline substitutions:
 
 Deliverables:
 
+- `docs/RAG_TUTORIAL_PRODUCTIZATION.md`
 - `docs/RETRIEVAL_DESIGN.md`
 - `src/retrieval/`
 - `tests/retrieval/`
