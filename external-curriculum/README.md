@@ -8,9 +8,10 @@ Primary path:
 
 1. `production-rag`
 2. `rag-tutorial`
-3. `generative-ai-for-beginners`
-4. `mcp-for-beginners`
-5. `ai-engineering-from-scratch`
+3. `rag-tutorial-source`
+4. `generative-ai-for-beginners`
+5. `mcp-for-beginners`
+6. `ai-engineering-from-scratch`
 
 Reference-only foundations:
 

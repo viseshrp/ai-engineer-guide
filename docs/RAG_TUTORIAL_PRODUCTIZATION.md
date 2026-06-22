@@ -9,7 +9,7 @@ It is more directly useful than most broad beginner curricula because it starts 
 ## Imported Sources
 
 - Wrapper repo: `external-curriculum/rag-tutorial`
-- Original upstream tutorial content: `external-curriculum/rag-tutorial/vendor/rag_tutorial`
+- Original upstream tutorial content: `external-curriculum/rag-tutorial-source`
 - Wrapper commit: `313427d1d56b2d7fb80b9ed2d6fb588814869931`
 - Upstream tutorial commit: `ae908ee8a61dc1723f5386538bf2a1266c4cf0df`
 
@@ -40,8 +40,8 @@ Use:
 - `README.md`
 - `CHEATSHEET.md`
 - `NOTES.md`
-- `vendor/rag_tutorial/python_tutorial.py`
-- `vendor/rag_tutorial/rag_tutorial_local_cur.ipynb`
+- `external-curriculum/rag-tutorial-source/python_tutorial.py`
+- `external-curriculum/rag-tutorial-source/rag_tutorial_local_cur.ipynb`
 
 ### Stage 2: Extract The Pipeline
 

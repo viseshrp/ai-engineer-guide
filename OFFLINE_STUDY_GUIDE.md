@@ -97,7 +97,7 @@ Read:
 
 - `external-curriculum/rag-tutorial/README.md`
 - `external-curriculum/rag-tutorial/CHEATSHEET.md`
-- `external-curriculum/rag-tutorial/vendor/rag_tutorial/python_tutorial.py`
+- `external-curriculum/rag-tutorial-source/python_tutorial.py`
 - `external-curriculum/production-rag/static`
 - `external-curriculum/ai-engineering-from-scratch/phases/05-nlp-foundations-to-advanced`
 

@@ -8,7 +8,7 @@ For each source, the import intentionally strips translations, generated quiz ap
 | --- | --- | --- | --- |
 | `production-rag` | `https://github.com/jamwithai/production-agentic-rag-course` | `424a0eb99edf841994f2a9a053912b489d2a94ff` | `production-rag/LICENSE` |
 | `rag-tutorial` | `https://github.com/viseshrp/rag-tutorial` | `313427d1d56b2d7fb80b9ed2d6fb588814869931` | not found |
-| `rag-tutorial/vendor/rag_tutorial` | `https://github.com/ismichel/rag_tutorial` | `ae908ee8a61dc1723f5386538bf2a1266c4cf0df` | not found |
+| `rag-tutorial-source` | `https://github.com/ismichel/rag_tutorial` | `ae908ee8a61dc1723f5386538bf2a1266c4cf0df` | not found |
 | `ai-engineering-from-scratch` | `https://github.com/rohitg00/ai-engineering-from-scratch` | `574a5d6d10e31f3c2756a711af63a64981edf72a` | `ai-engineering-from-scratch/LICENSE` |
 | `mcp-for-beginners` | `https://github.com/microsoft/mcp-for-beginners` | `af5f9c7439af3472534f50232c8f7dfdb61af122` | `mcp-for-beginners/LICENSE` |
 | `generative-ai-for-beginners` | `https://github.com/microsoft/generative-ai-for-beginners` | `61a1240c5de4109ceac54142934411365c67c759` | `generative-ai-for-beginners/LICENSE` |
