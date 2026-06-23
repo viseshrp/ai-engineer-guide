@@ -84,6 +84,7 @@ The first implementation should favor the smallest model that reliably emits val
 - [AI_ENGINEER_ROADMAP_CHAT.md](./AI_ENGINEER_ROADMAP_CHAT.md) contains the full exported ChatGPT planning conversation that seeded this repo.
 - [STUDY_RESOURCES.md](./STUDY_RESOURCES.md) ranks external study resources against the current short-term and long-term AI engineering goals.
 - [OFFLINE_STUDY_GUIDE.md](./OFFLINE_STUDY_GUIDE.md) is the default end-to-end, local-only study path.
+- [blog-learning-resources/](./blog-learning-resources/) tracks article- and newsletter-based study notes separately from the imported curriculum.
 - [external-curriculum/](./external-curriculum/) contains curated offline slices of external courses, with source metadata in [external-curriculum/SOURCES.md](./external-curriculum/SOURCES.md).
 - [docs/CURRICULUM_MAINTENANCE.md](./docs/CURRICULUM_MAINTENANCE.md) explains how to refresh the curated curriculum without reintroducing provider-specific material.
 - [docs/RAG_TUTORIAL_PRODUCTIZATION.md](./docs/RAG_TUTORIAL_PRODUCTIZATION.md) explains how the PyCon RAG tutorial fits as the practical bridge from notebook exercise to product feature.
